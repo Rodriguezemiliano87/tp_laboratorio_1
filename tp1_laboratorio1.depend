@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1523502021 source:c:\users\fx-6300\desktop\emiliano\tp1_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523502021 source:c:\users\fx-6300\desktop\emiliano\tp1_laboratorio1\lib.c
+
+1523502021 c:\users\fx-6300\desktop\emiliano\tp1_laboratorio1\lib.h
+
+1523502021 source:d:\tp1_laboratorio1\lib.c
+
+1522635858 source:d:\tp1_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523502021 d:\tp1_laboratorio1\lib.h
+
+1523502021 source:e:\tp1_laboratorio1\lib.c
+
+1522635858 source:e:\tp1_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523502021 e:\tp1_laboratorio1\lib.h
+
+1523660827 source:g:\tp1_laboratorio1\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523660827 source:g:\tp1_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523660827 g:\tp1_laboratorio1\lib.h
+
